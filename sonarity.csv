@@ -1,0 +1,6 @@
+﻿Class,Syllabic,Consonantal,Approximant,Sonorant
+Vowels,1,0,1,1
+Glides,0,0,1,1
+Liquids,0,1,1,1
+Nasals,0,1,0,1
+Obstruents,0,1,0,0
